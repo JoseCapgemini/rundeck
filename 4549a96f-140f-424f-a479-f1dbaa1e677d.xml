@@ -11,7 +11,7 @@
     <scheduleEnabled>true</scheduleEnabled>
     <sequence keepgoing='false' strategy='node-first'>
       <command>
-        <exec>echo a</exec>
+        <exec>echo ab</exec>
       </command>
     </sequence>
     <uuid>4549a96f-140f-424f-a479-f1dbaa1e677d</uuid>
