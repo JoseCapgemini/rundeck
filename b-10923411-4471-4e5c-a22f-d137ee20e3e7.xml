@@ -1,19 +1,19 @@
 <joblist>
   <job>
     <defaultTab>nodes</defaultTab>
-    <description>a</description>
+    <description>b</description>
     <executionEnabled>true</executionEnabled>
-    <id>4549a96f-140f-424f-a479-f1dbaa1e677d</id>
+    <id>10923411-4471-4e5c-a22f-d137ee20e3e7</id>
     <loglevel>INFO</loglevel>
-    <name>a</name>
+    <name>b</name>
     <nodeFilterEditable>false</nodeFilterEditable>
     <plugins />
     <scheduleEnabled>true</scheduleEnabled>
     <sequence keepgoing='false' strategy='node-first'>
       <command>
-        <exec>echo abcdefgg</exec>
+        <exec>echo b</exec>
       </command>
     </sequence>
-    <uuid>4549a96f-140f-424f-a479-f1dbaa1e677d</uuid>
+    <uuid>10923411-4471-4e5c-a22f-d137ee20e3e7</uuid>
   </job>
 </joblist>
